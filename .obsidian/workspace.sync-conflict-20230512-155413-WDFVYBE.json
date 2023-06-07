@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c4a5eb51ab100ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5893c6f62d06117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54dff6c771feefb7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5aa74cec4880625e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8380713d1cb65fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8249aa74c08a112",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ce961671a12be7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eb05c93f774dcc6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ce64caee9a31d6a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6ee8a4977050b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859ceba3485576e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d0df2b3cb3012bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80ea381dda03fdd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a41c8dd005e556fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "54dff6c771feefb7",
+  "lastOpenFiles": [
+    "Systeme/TLS.md",
+    "Systeme/Virtualisierung.md",
+    "Systeme/IPv6.md",
+    "Systeme/Cloud Computing.md",
+    "Systeme/VPN.md",
+    "Pasted image 20230425173252.png",
+    "Pasted image 20230425172504.png",
+    "Pasted image 20230425172235.png",
+    "Pasted image 20230425172227.png",
+    "Pasted image 20230425171946.png",
+    "Pasted image 20230425170547.png",
+    "Pasted image 20230425170545.png",
+    "Pasted image 20230425164141.png",
+    "Systeme/Betriebssysteme.md",
+    "PM/Buchhaltung.md",
+    "Info/NodJS MySQL.md",
+    "Info/NodeJS.md",
+    "Geschichte/UNO.md",
+    "Geschichte/UNO.pdf",
+    "Geschichte/combined.pdf",
+    "Geschichte/UNO-Collage.pdf",
+    "Geschichte/UNO-Collage.png",
+    "Geschichte/UNO-Collage2.xcf",
+    "Geschichte/UNO-Collage.xcf",
+    "Pasted image 20230418170107.png",
+    "PM/Buchhaltung Übungen.md",
+    "Deutsch/lu106860816082.tmp",
+    "Deutsch/lu10686081602j.tmp",
+    "Deutsch/lu10686081602g.tmp",
+    "Deutsch/Arbeitsauftrag zu Kennedys Berlin-Rede.docx",
+    "Deutsch/Corpus Delicti.md",
+    "Deutsch/Der Kalte Krieg_Arbeitsblatt zum Film.pdf",
+    "2023-04-13.md",
+    "Ital/Modulo 3/Noi e il cuore nero dell'Alto Adige.md",
+    "Ital/Modulo 3/Il fascismo.md",
+    "Ital/Modulo 3/Gino Bartali.md",
+    "Ital/Prima guerra mondiale.md",
+    "Ital/Pirandello.md",
+    "Ital/Noi e il cuore nero dell'Alto Adige.md",
+    "Ital/La tragedia did Cutro.md",
+    "Ital/la patente.md",
+    "Ital/La carriola.md",
+    "Ital/Introduzione storico filosofice letteraria.md",
+    "Ital/Il Positivismo e la fisica moderna.md",
+    "Ital/Il fascismo.md"
+  ]
+}

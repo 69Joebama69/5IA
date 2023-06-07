@@ -1,0 +1,17 @@
+- zwischen 1916 und 1917 in der Schweiz entwickelte
+- nach ganz Europa, sowie in die Vereinigten Staaten ausbreitete
+- „Dada“  Symbol und programmatisches Schlagwort der Bewegung
+- entstand im Jahr 1916 im Züricher “Cabaret Voltaire“
+- lehnten damaligen politische, moralische und ästhetische Werte ab 
+- nutzten die Bewegung als eine Form des Protestes gegen die vorherrschenden gesellschaftlichen und künstlerischen Konventionen.
+- 1\. Weltkrieg zentrales Thema für Dada-Künstler
+- aus kriegsführenden Ländern geflüchtete Exilanten 
+- sahen sich als konsequente Gegner des Krieges
+- wollten Sinnlosigkeit des Krieges manifestieren
+- mit allgemeinen Kunstbegriff experimentiert
+- alles Neue und nicht Vertraute als Kunst ansehen 
+- Alltagsgegenstände zu Kunstobjekten deklariert
+- Sinnlosigkeit, sowie Zufall und Improvisation galten als Prinzipien
+- Provokation stand im Vordergrund
+- verbanden Primitives mit modernen Techniken
+- Collage, Fotomontage, Objektmontage (Assemblage, Materialcollage), Ready Made

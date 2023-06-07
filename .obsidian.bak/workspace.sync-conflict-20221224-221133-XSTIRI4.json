@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "bfeb88f89b6b36e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "df81694d878b51f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f36542cc28e527e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ital/la patente.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41380a048e3dd56e",
+    "type": "split",
+    "children": [
+      {
+        "id": "783eb95e6097f05f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd405654cb414569",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88db3ff7886f4233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fc729cb80a806a41",
+    "type": "split",
+    "children": [
+      {
+        "id": "85eb6f3cd2518979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db0f2af8f8cd9062",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ital/la patente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f36542cc28e527e",
+  "lastOpenFiles": [
+    "Ital/la patente.md",
+    "Ital/Il Positivismo e la fisica moderna.md",
+    "Ital/Il Decadentismo.md",
+    "Ital/La carriola.md",
+    "Ital/La Carriola.md",
+    "Ital/Introduzione storico filosofice letteraria.md",
+    "Ital/Pirandello.md",
+    "Geschichte/Nationalsozialismus.md",
+    "Untitled.md",
+    "Geschichte/Leben unter dem hakenkreuz.md"
+  ]
+}

@@ -1,0 +1,4 @@
+- client DHCPDISCOVER
+- server DHCPOFFER offers random available ip
+- client DHCPREQUEST accepts ip
+- server ACK to confirm ip

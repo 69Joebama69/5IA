@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "bfeb88f89b6b36e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "453e4b7625edd87e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Info/theorie/Datenbanken.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8bee04085f058c54",
+    "type": "split",
+    "children": [
+      {
+        "id": "150ed174775da253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f29280141be3bc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f633ffb0ebd9a26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "901e18d54e7a8bec",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6db2ce7fe0c7cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "176515d437ee6327",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Info/theorie/Datenbanken.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "453e4b7625edd87e",
+  "lastOpenFiles": [
+    "Deutsch/Inventur.md",
+    "Pasted image 20220922191443.png",
+    "Pasted image 20220922183854.png",
+    "Pasted image 20220922183517.png",
+    "Deutsch/Ich fürchte mich so vor der Menschen wort.md",
+    "Info/übungen/Ölquellenverwaltung.md",
+    "Ital/Introduzione storico filosofice letteraria.md",
+    "TP/SlotMachine/Diagramme.md",
+    "TP/SlotMachine/Sequenzdiagramm.md",
+    "TP/Aktivitätsdiagramm.md"
+  ]
+}

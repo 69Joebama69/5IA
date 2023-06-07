@@ -1,0 +1,3 @@
+- keine moral
+- menschen
+- lebensweisheit

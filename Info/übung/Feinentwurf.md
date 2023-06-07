@@ -1,0 +1,7 @@
+benutzer (bid, bvorname, bnachname, bemail, btelefon)
+fahrer (bid, ffsnummer, ffsverfalldatum, ffoto, fkennzeichen, fautotyp)
+mitfahrer (bid, mausweisnummer)
+fahrten (fid, bid, fastartzeitdatum, fastartstadt, fastartadresse, fazielstadt, fazieladresse, fadauer, fapreis, faanmerkungen, fageschlossen)
+buchungen (faid, bid)
+bewertungenfahrer (bfid)
+bewertungenmitfahrer (bmid)

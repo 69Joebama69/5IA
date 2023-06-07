@@ -1,0 +1,6 @@
+```sql
+CREATE TABLE fahrer(
+	fid INTEGER NOT NULL AUTO_INCREMENT,
+	
+)
+```

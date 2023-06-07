@@ -1,0 +1,9 @@
+- 1923 Putschversuck
+- 30.01.1933 Hitler Reichskanzler
+- 27.02.1933 Reichtagsbrand
+- 28.02.1933 veranlassung von Hindenburg "Verordnung zum Schutz von Volk und Staat"
+- 05.03.1933 NSDAP nur 44% 
+- 22.06.1934 Sozialdemokratische Partei verboten
+- 30.06.1934 "Nacht der langen Messer" Führungsspitze der SA festnehmen und ermorden
+- 02.08.1934 Hindenburg stirbt -> Hitler wird Führer und Reichskanzler
+- 

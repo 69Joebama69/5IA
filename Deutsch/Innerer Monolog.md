@@ -1,0 +1,11 @@
+## Merkmale
+- gedankliches Selbstgespräch
+- wörtliche Redewiedergabe
+- 1. Person (Ich-Form)
+- Präsens
+- keine Redezeichen ("") und verbe dicendi (er sagte)
+- spontaner, sprunghaft - assoziativer Rede - und Gedankenfluss, Satzbrüche
+- Innensicht der Figur
+- Beteiligung des Lesers an den Bewusstseinsvorgängen der Figur
+- Zurücktreten des Erzählers
+- autonomer innerer Monolog

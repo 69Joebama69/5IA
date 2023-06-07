@@ -1,0 +1,2 @@
+Bei diesem Projekt werden wir die Portal-Fräse der Schule reparieren und upgraden. Diese Fräse wird hauptsächlich verwendet um Platinen zuzuschneiden. Die Hauptprobleme sind das Austauschen der Motoren, das Einbauen eines Microcontrollers und das Erstellen eines Programmes / einer Website um den gcode auf die Fräse zu laden.
+Für die Steurung der Motoren werden wir einen Arduino Nano verwenden. Außerdem werden wir einen Raspberry Pi benutzen, der als Schnittstelle vom Benutzer zu der Portal-Fräse dient. Dadurch soll man die Fräse einfach und intuitiev verwenden können.

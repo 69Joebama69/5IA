@@ -1,0 +1,15 @@
+- movimento letterario
+- nasce in Francia alla fine dell’Ottocento
+- si diffonde in tutta Europa
+
+- Inizialmente in senso dispregiativo
+- poeti decidono di chiamarsi decadenti per andare contro la società
+- visione del mondo decadente è irrazionale
+- poeti rifiutano infatti il positivismo 
+- realtà non può essere conosciuta in modo oggettivo, tramite la scienza
+- fascino per l’inconscio e per il mistero
+- usavano:
+	- la follia
+	- la nevrosi
+	- il sogno
+	- uso di alcol e droghe

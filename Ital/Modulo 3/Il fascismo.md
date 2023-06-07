@@ -1,0 +1,11 @@
+- grande crisi economica
+- soldati non trovavano lavoro
+- protestavano
+- 1917 Russia revolutione
+- proprieta' private date a contadini e operai
+- 1919 - 1922 grande confusione in italia
+- nasce il partito fascista di Benito Mussolini
+- re nomina Mussolini Primo ministro
+- Mussolini prometteva ordine, efficienza e pace
+- aveva bisogno di governare senza essere limitato dalle leggi
+- un partito unico e un capo
