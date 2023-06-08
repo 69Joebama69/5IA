@@ -1,0 +1,12 @@
+- [ ] UML, PHD, SSD
+- [ ] Reguläre Ausdrücke
+- [ ] Entwurfsmuster / Design Patterns
+- [ ] Versionierung (git)
+- [ ] Analyse von Websiten
+- [ ] Funktionale Programmierung (OCaml)
+- [ ] Mehrschichtenarchitektur, OpenDataHub
+- [ ] REST-Webservices, u-services, Joile
+- [ ] Remote Method Invocation RMI
+- [ ] Docker, Docker Compose
+- [ ] Verteile Systeme
+- [ ] MQTT
