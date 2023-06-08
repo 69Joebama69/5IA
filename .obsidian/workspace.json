@@ -11,9 +11,11 @@
             "id": "bcf09db2dfa8ae98",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Matura.md"
+                "file": "English/Inhalte.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "right": {
     "id": "ce64caee9a31d6a4",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matura.md",
+                "file": "English/Inhalte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matura.md",
+                "file": "English/Inhalte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matura.md"
+                "file": "English/Inhalte.md"
               }
             }
           }
@@ -155,10 +158,12 @@
   },
   "active": "bcf09db2dfa8ae98",
   "lastOpenFiles": [
-    "Info/Pasted image 20230418170107.png",
-    "Info/Pasted image 20230425164141.png",
+    "Ital/Inhalte.md",
+    "English/Inhalte.md",
     "Matura.md",
     "Geschichte/Inhalte.md",
+    "Info/Pasted image 20230418170107.png",
+    "Info/Pasted image 20230425164141.png",
     "Info/übung/Feinentwurf.md",
     "Info/übung/Feinstentwurf.md",
     "Info/übung/feinentwurf.excalidraw.md",
@@ -176,7 +181,6 @@
     "Deutsch/2/Brief an den Vater.md",
     "Deutsch/2/Kleine Fabel.md",
     "Geschichte/2/Hitlers Machtergreifung und der Weg in die Diktatur.pdf",
-    "Ital/Inhalte.md",
     "Deutsch/1/Freud_Psychoanalyse.pdf",
     "Deutsch/3/Die politische Rede.pdf",
     "Deutsch/3/Kennedy_Die Berlin-Rede.pdf",
