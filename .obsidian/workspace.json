@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Inhalte.md",
+                "file": "Systeme/Inhalte.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Inhalte.md",
+                "file": "Systeme/Inhalte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/Inhalte.md",
+                "file": "Systeme/Inhalte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Inhalte.md"
+                "file": "Systeme/Inhalte.md"
               }
             }
           }
@@ -158,9 +158,11 @@
   },
   "active": "bcf09db2dfa8ae98",
   "lastOpenFiles": [
+    "Systeme/Inhalte.md",
+    "Matura.md",
+    "Mathe/Inhalte.md",
     "English/Inhalte.md",
     "Ital/Inhalte.md",
-    "Matura.md",
     "Geschichte/Inhalte.md",
     "Info/Pasted image 20230418170107.png",
     "Info/Pasted image 20230425164141.png",
@@ -197,8 +199,6 @@
     "Geschichte/2/Nationalsozialismus.md",
     "Geschichte/2/Ende 2. Weltkrieg.md",
     "Geschichte/2/Benito Mussolini.md",
-    "Geschichte/2/Antisemitismus und Holocaust.md",
-    "Geschichte/1/Totalitäre Systeme.md",
     "Systeme/imgs/Pasted image 20221024084010.png",
     "Systeme/imgs/Pasted image 20230425170545.png",
     "Systeme/imgs/Pasted image 20230425170547.png",
