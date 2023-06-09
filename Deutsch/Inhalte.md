@@ -3,12 +3,12 @@
 - [ ] [[Ich fürchte mich so vor der Menschen wort]]
 - [ ] [[Ein Brief]]
 - [ ] [[Der Panther]]
-- [ ] Hugo Ball: Gadji beri bimba (PAUL D, S. 296)
+- [ ] [[Gadji beri bimba]]
 - [ ] [[Lieutenant Gustl]]
-- [ ] [[Freud_Psychoanalyse.pdf]]
+- [ ] [[Freud]]
 - [ ] [[Literarische Moderne um 1900]]
-- [ ] Georg Trakl: Grodek (PAUL D, S. 317)
-- [ ] August Stramm: Patrouille (PAUL D, S. 318)
+- [ ] [[Grodek]]
+- [ ] [[Patrouille]]
 - [ ] Expressionismus (PAUL D, S. 320)
 
 ## Sprachkrise nach 1945

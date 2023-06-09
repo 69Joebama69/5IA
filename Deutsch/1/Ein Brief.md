@@ -1,4 +1,4 @@
-[[Hugo von Hoffmansthal]]
+_[[Hugo von Hofmansthal]],1903 _ 
 
 - Philipp Lord Chandos schreibt an seinen Mentor Francis Bacon
 - kann nicht mehr zusammenhängend sprechen und denken
