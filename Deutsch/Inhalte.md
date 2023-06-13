@@ -10,12 +10,13 @@
 - [ ] [[Grodek]]
 - [ ] [[Patrouille]]
 - [ ] Expressionismus (PAUL D, S. 320)
+- [ ] [[Dadaismus]]
 
 ## Sprachkrise nach 1945
 - [ ] [[Inventur]]
 - [ ] [[Todesfuge]]
 - [ ] [[Konkrete Poesie.pdf]]
-- [ ] [[Keine Delikatessen]]
+- [ ] [[Keine Delikatessen]] TODO
 
 
 # Franz Kafka
@@ -28,7 +29,7 @@
 
 
 # Die politische Rede, Sprachlenkung im Nationalsozialismus
-- [ ] [[Die politische Rede.pdf]]
+- [ ] [[Die politische Rede]]
 - [ ] [[Sportpalastrede]]
 - [ ] [[Kennedy_Die Berlin-Rede.pdf]]
 - [ ] [[Sprachlenkung im Nationalsozialismus.pdf]]

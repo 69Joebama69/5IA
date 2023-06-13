@@ -1,12 +1,28 @@
-Paul Celan
+_Paul Celan, 1948_
 
-"Todesfuge" ist ein Gedicht von Paul Celan, das erstmals 1948 veröffentlicht wurde. Es gilt als eines der wichtigsten Werke der deutschsprachigen Literatur des 20. Jahrhunderts und drückt die Schrecken des Holocaust und die Unmenschlichkeit des NS-Regimes aus.
+>Schwarze Milch der Frühe wir trinken sie abends  
+>wir trinken sie mittags und morgens wir trinken sie nachts  
+>wir trinken und trinken
 
-Das Gedicht besteht aus drei Strophen, von denen jede aus sieben Versen besteht. Die "Todesfuge" beschreibt das Leben in einem Konzentrationslager und die Grausamkeiten, die von den Nazis gegenüber den Gefangenen begangen wurden. Der Titel "Todesfuge" bezieht sich auf das rhythmische Klappern der Totenwagen, die die Opfer des Lagers transportierten.
+- Schrecken des Holocaust, Unmenschlichkeit des NS-Regimes
+- Leben und Sterben in Konzentrations/Arbeitslagern
+- Todesfuge: rythmisches Klappern der Totenwagen
 
-Das Gedicht ist durchdrungen von biblischen und mythischen Bildern, die die Abgründe der menschlichen Erfahrung ausdrücken. Es ist bekannt für seine poetische Sprache, die scheinbar unvereinbare Bilder und Begriffe miteinander verbindet, um die Grausamkeit und das Leiden der Opfer des Holocaust auszudrücken.
+- schwarze Milch, die vom lyrischen Ich konsumiert wird
+- muss Gräber ausheben
+- Aufseher schreibt Briefe an Margarete
 
-"Todesfuge" ist ein Meisterwerk der modernen Lyrik und ein wichtiges Zeugnis der schrecklichen Ereignisse des Holocaust. Es ist ein Beispiel für die Fähigkeit der Literatur, die menschliche Erfahrung zu vermitteln und uns daran zu erinnern, dass wir die Verantwortung haben, gegen die Ungerechtigkeit und das Leiden in unserer Welt vorzugehen.
+- Schwarze Milch:
+	- schwarz = Tod, Trauer, Gefahr, Dunkelheit
+	- Milch = Nahrung, Leben, Reinheit
+	- Oxymoron
+- Aufseher:
+	- Heimweh an Margarete
+	- schaut in die Sterne
+	- pfeift nach Juden und erteilt Befehle
+	- einige müssen musizieren, andere ihr Grab schaufeln
+	- Musik = Ablenkung von denen die Grab schaufeln?
+	- spielt mit Schlangen
 
 wir | ein Mann
 ----|---------

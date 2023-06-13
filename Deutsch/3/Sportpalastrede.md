@@ -1,8 +1,24 @@
-bewegen und aufstacheln:
-- 44
-- 47
-- 57
-- 71
-- 74
-- 81
-- 93
+_18. Februar 1943_
+
+Forderungen:
+- vollständige Mobilisierung aller personellen und materiellen Ressourcen
+- fast vollständige Einschränkung des Kulturbetriebes
+- Verschärfung der Ausbeutung von besetzten Gebieten
+
+# Aufbau
+
+- Beschreibung der Situation im Inland und im Ausland: Feinde und Verbündete
+- Abwendung des Ziels aller Feinde: Vernichtung der europäischen Kulturvölker
+- notwendige Schlussfolgerung → totaler Krieg
+- Appell an alle Schichten der deutschen Nation: Niemand kann sich davor drücken.
+- Zielgruppe der Mobilmachung: besondere Anstrengungen durch Frauen und Beamte
+- Maßnahmen zur Straffung des deutschen Gemeinwesens
+
+# Analyse
+- [[Die politische Rede#Aufwertung|Aufwertung]]:  Interesseneinheit und Stärke des deutschen Volkes
+- [[Die politische Rede#Abwertung|Abwertung]]: moralische Verwerflichkeit der Gegner
+- Dramatisierung: Auslösen von Ängsten und Geschlossenheit im Publikum
+- [[Die politische Rede#Beschwichtigung|Beschwichtigung]]: Forderung der Gemeinschaftsideologie nach Opferbereitschaft durch jedes Mitglied
+
+Ersten fünf Fragen beginnen mit "Die Engländer behaupten, ..." 
+"behaupten" diskreditiert die Aussage der Engländer

@@ -22,8 +22,7 @@ _1856 - 1939, Wien_
 - Überwachung und Kontrollieren der Handlungen des Ichs
 - Auslößen von Schuld-und Schamgefühle
 
-Forderungen
-		↓
+↓ Forderungen
 
 ## Ich
 - Regulierungsinstanz zwischen den Wünschen des Es und Geboten/Verboten des Über-Ichs
@@ -34,8 +33,7 @@ Forderungen
 - bringt Bedürfnisse des Es mit realer Welt in Einklang
 - berücksichtigt Konsequenzen. vor Ausführung der Handlung
 
-	 ↑
-Triebimpulse
+↑ Triebimpulse
 
 ## Es
 - unbewusste Basis der Seele

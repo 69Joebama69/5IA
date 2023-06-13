@@ -9,5 +9,5 @@ _August Stramm, 1915_
 
 - Wahrnehmungen eines Soldaten während einer Patrouille
 - gefährliche Situation, Misstrauen
-- Nomen -> Verben (Fein -> feinden) = Landschaft -> verstümmelt
+- Nomen -> Verben (Feind -> feinden) = Landschaft -> verstümmelt
 - große Angst vor Tod
