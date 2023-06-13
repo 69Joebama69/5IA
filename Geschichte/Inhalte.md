@@ -1,14 +1,15 @@
 # Diktatorische Systeme in Europa
-- [ ] Faschismus in Italien (Kopie, Zeitbilder 7/8 S. 26 f.)
-- [ ] [[Der Spanische Buergerkrieg_Arbeitsblatt_Transicion.pdf]]
+- [ ] [[Faschismus in Italien]]
+- [ ] [[Der Spanische Buergerkrieg_Arbeitsblatt_Transicion.pdf]] TODO
 - [ ] Exkurs: Spanien: Von der Diktatur zur Republik (Spaniens Demokratisierung) (Kopie)
-- [ ] Russland: Stalinismus (Zeitbilder 7/8 S. 30 f.)
+- [ ] [[Stalinismus]]
 - [ ] [[Totalitäre Systeme]] (Zeitbilder 7/8 S. 32 f.)
 - [ ] Faschismus in Südtirol (Kopien)
 
 
 # Nationalsozialismus, Zweiter Weltkrieg und Holocaust
 - [ ] Merkmale der nationalsozialistischen Ideologie (Kopie)
+- [ ] [[Leben unter dem Hakenkreuz]]
 - [ ] [[Ideologie, Leben unter dem Hakenkreuz_Neu.pdf]] (Zeitbilder 7/8, S. 68-71, Kopie)
 - [ ] [[Hitlers Machtergreifung und der Weg in die Diktatur.pdf]] (Kopie, Zeitbilder 7/8 S. 60-63)
 - [ ] Deutschlands aggressive Außenpolitik, Doppelstrategie Friedensbekundung nach außen und Kriegsvorbereitung (Kopie)
@@ -23,10 +24,12 @@
 
 
 # Konflikte nach 1945
-- [ ] Spaltung und Blockbildung in Europa (Kopie)
+- [ ] [[Kalter Krieg]]
+- [ ] [[Blockbildung und nukleare Ruestung.pdf]]
 - [ ] Die Teilung Deutschlands, Ost-West-Konflikt am Beispiel von Berlin: Besatzungszonen, Bau der Berliner Mauer, Leben mit der Mauer, Versorgung West-Berlins über die Luftbrücke, der Fall des Eisernen Vorhangs (Kopien)
 - [ ] Überblick über Krisen im Zeitalter des Ost-West-Konflikts (Korea, Vietnam, Kuba, Afghanistan)
 - [ ] „Kalte” Ersatzkriege im Kalten Krieg: Sport, der Wettlauf zum Mond
+- [ ] [[Heisse Kriege im Kalten Krieg.pdf]]
 
 
 # Südtirol nach 1945

@@ -1,6 +1,6 @@
 ## Gemeinsamkeiten
-- ablehnung parlamentarisches system
-- technischer fortschritt als ziel
+- Ablehnung parlamentarisches system
+- technischer Fortschritt als ziel
 - Einparteiensystem, Diktator, Propaganda
 
 ## Unterschiede
@@ -9,9 +9,9 @@
 - Symbol
 - Machtübernahme
 - Staatsterror / elitäre Kaderpartei
-- privatkapitalismus / staatliche planwirtschaft
-- toleranz / ablehnung / kirchenfeindlich
-- sieger / verlierer
+- Privatkapitalismus / staatliche Planwirtschaft
+- Toleranz / Ablehnung / kirchenfeindlich
+- Sieger / Verlierer
 
 
 Faschismus | Nationalsozialismus | Stalinismus
