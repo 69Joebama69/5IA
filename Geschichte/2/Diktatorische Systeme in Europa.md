@@ -1,6 +1,4 @@
-# Diktatorische Systeme in Europa
-
-#### Faschismus in Italien (Kopie, Zeitbilder 7/8 S. 26 f.)
+# Faschismus in Italien (Kopie, Zeitbilder 7/8 S. 26 f.)
 
 - Bei den Wahlen zum italienischen Parlament im Mai 1921 erlangten die Südtiroler durch eine fast geschlossene Stimmabgabe vier Mandate. Zu dieser Zeit wurden nationalistische Tendenzen immer stärker, auch unter der damaligen liberal-demokratischen Regierung. Dennoch bestand Hoffnung für die Südtiroler, insbesondere als 1921 eine "Beratende Kommission zum Studium der Autonomie" eingesetzt wurde. Allerdings befand sich das Land zu diesem Zeitpunkt bereits mit dem Terror der aufkommenden faschistischen Bewegung konfrontiert.
 - Ein bedeutsames Ereignis, das einen Vorgeschmack auf die kommenden Jahre lieferte, war der 24. April 1921, als faschistische Kommandos in Bozen einen Trachtenumzug überfielen. Bei diesem Angriff wurde der Lehrer Franz Innerhofer erschossen und 40 weitere Südtiroler wurden verletzt. Ein Jahr später stellten die Faschisten unzumutbare Forderungen an den Bozner Gemeinderat, die dieser ablehnte. Daraufhin marschierten mehrere tausend Faschisten aus dem Süden in Bozen ein und besetzten das Rathaus. Die staatliche Verwaltung sanktionierte die Gewalttat durch die geforderte Absetzung des Bürgermeisters Julius Perathoner.
