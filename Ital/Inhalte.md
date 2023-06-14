@@ -1,5 +1,5 @@
 # Il primo Novecento
-- [ ] Panoramica storico letteraria
+- [ ] [[Introduzione storico filosofice letteraria]]
 - [ ] [[Il Positivismo e la fisica moderna]]
 - [ ] [[Il Decadentismo]]
 - [ ] [[Pirandello]]

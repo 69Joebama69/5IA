@@ -1,4 +1,5 @@
-- 867-1936
+_1867-1936_
+
 - scrittore, poeta e drammaturgo
 - uno dei maggiori rappresentanti del teatro moderno e del teatro del Novecento
 - Nato a Girgenti (oggi Agrigento), in Sicilia, 

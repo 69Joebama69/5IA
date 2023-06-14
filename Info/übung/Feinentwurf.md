@@ -4,6 +4,7 @@ mitfahrer (<u>bid</u>, mausweisnummer)
 fahrten (<u>fid</u>, bid, fastartzeitdatum, fastartstadt, fastartadresse, fazielstadt, fazieladresse, fadauer, fapreis, faanmerkungen, fageschlossen)
 reservierungen (<u>faid, bid</u>, rakzeptiert)
 bewertungen (<u>fid, bid</u>, bwfuerfahrer, bwbewertung, bwtext)
+
 a)
 ```sql
 SELECT b.bvorname, b.bnachname, fa.fastadt, fa.fapreis, f.fkennzeichen, f.fautotyp
@@ -21,7 +22,13 @@ c)
 ```sql
 SELECT b.bvorname, b.bnachname, AVG(bw.bwbewertung)
 	FROM benutzer b, bewertungen bw, reservierungen r,
-	WHERE bw.bwfuerfahrer = TRUE
-		AND bw.fid = ?
-		
+	WHERE b.bid IN 
+        (SELECT bid
+            FROM reservierungen
+            WHERE fid = ?
+                AND rakzeptiert = FALSE)
+        AND b.bid = bw.bid
+    GROUP BY bw.bid, b.bvorname, b.bnachname
+    HAVING AVG(bwbewertung) > ?
+
 ```
