@@ -39,3 +39,11 @@
 - [ ] [[Die dunkle Seite des Mondes]]
 - [ ] [[Corpus Delicti]]
 - [ ] Joseph Zoderer: Wir gingen
+
+
+
+# Textformen
+- [ ] [[Kommentar]] 
+- [ ] [[Essay]]
+- [ ] [[Erörterung]]
+- [ ] [[Argumentation]]
