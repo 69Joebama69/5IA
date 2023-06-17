@@ -34,8 +34,9 @@
 # Fascismo e Shoah
 - [ ] [[Il fascismo]]
 - [ ] Mostra “Aktion T-4”
-- [ ] Storia del lager di Bolzano e del processo a Michael Seifert
-- [ ] Peter Langer e il cuore nero dell’Alto Adige
+- [ ] [[Il Lager di Bolzano]]
+- [ ] [[Noi e il cuore nero dell'Alto Adige]]
+- [ ] [[L'educazione fascista]]
 - [ ] Indottrinamento antisemita nelle Germania del Terzo Reich
 - [ ] Marco Balzano, Resto qui – brani scelti (Fascismo in Alto Adige, Opzioni, Resistenza, Storia del paese di Curon e costruzione della diga del lago di Resia)
 - [ ] La corrente del Neorealismo
