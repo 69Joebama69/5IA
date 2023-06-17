@@ -1,10 +1,10 @@
 # Diktatorische Systeme in Europa
 - [ ] [[Faschismus in Italien]]
-- [ ] [[Der Spanische Buergerkrieg_Arbeitsblatt_Transicion.pdf]] TODO
-- [ ] Exkurs: Spanien: Von der Diktatur zur Republik (Spaniens Demokratisierung) (Kopie)
+- [ ] [[Faschismus in Spanien]] 
 - [ ] [[Stalinismus]]
 - [ ] [[Totalitäre Systeme]] (Zeitbilder 7/8 S. 32 f.)
 - [ ] Faschismus in Südtirol (Kopien)
+- [ ] [[Diktatorische Systeme in Europa]]
 
 
 # Nationalsozialismus, Zweiter Weltkrieg und Holocaust

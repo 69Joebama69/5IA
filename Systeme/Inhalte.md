@@ -1,18 +1,20 @@
 - [ ] Protokolle SMTP, POP3 und IMAP4 (und Vertiefung im Labor, Socketprogrammierung in C)
-- [ ] Wiederholung/Vertiefung der Protokolle DNS, DHCP und FTP; VLAN
-- [ ] Einführung und Konfiguration von Raspberry PIs
+- [ ] [[DNS]]
+- [ ] [[DHCP]]
+- [ ] [[FTP]]
 - [ ] Kryptografie (Cäsar-Verschlüsselung, Affine Chiffren, RSA, Schlüsselaustausch von Diffie Hellman, Erweiterter Euklidischer Algorithmus, Elliptic Curve Cryptographie, Elliptic Curve Diffie Hellman)
 - [ ] Serverdienste mit Raspberry Pi (Labortätigkeit)
 - [ ] Firewalls und Intrusion Detection System (IDS) 
 - [ ] Firewalls mit Raspberry Pi (Labortätigkeit) 
 - [ ] Kryptografie (Symmetrische und asymmetrische Verschlüsselung, Hybride Verfahren, Stream Ciphers und Block Ciphers, Ziele der Kryptografie, Security Level, Exhaustive Key Search, Message Authentication Codes, DES und Triple-DES, AES, Public-Key Encryption, Digitale Signaturen, Hash-Funktionen, Angriffe, Geburtstagsparadoxon, Häufigkeitsverteilung von Buchstaben, One-Time-Pad, Rainbow tables, WPA-2 und WPA-3)
+- [ ] [[Rainbow Tables]]
 - [ ] Proxy mit Raspberry Pi (Theorie und Labortätigkeit) 
 - [ ] NAT und PAT (Theorie und Labortätigkeit mit virtuellen Maschinen)
-- [ ] NAT und PAT mit Raspberry Pi 
 - [ ] I2C-Schnittstelle (Theorie und Labortätigkeit mit Raspberry Pi, Ansteuerung mit Python)
-- [ ] IPv6, IPv6-Adressen, Interface ID, Präfixe, SLAAC, Neighbor Discovery Protocol, ICMPv6, Mobility, Übergangslösungen IPv4/IPv6 (Vortrag und Arbeitsaufträge zur Vertiefung)
+- [ ] [[IPv6]]
 - [ ] Cloud-Computing, Merkmale, Liefermodelle und Servicemodelle, SaaS, PaaS, IaaS
-- [ ] Virtualisierung (Vor- und Nachteile, VMM, Hypervisor-Arten, Vollständige Virtualisierung, Paravirtualisierung, Hardware- Emulation, CPU-Virtualisierung, Applikationsvirtualisierung, Desktop-Virtualisierung, Storage-Virtualisierung, Netzwerk-Virtualisierung, RAID
+- [ ] [[Cloud Computing]]
+- [ ] [[Virtualisierung]]
 - [ ] LDAP, X.500 und RADIUS (Vorträge) 
 - [ ] DES, WEP und WPA (Vorträge) 
 - [ ] WPA-2 (Vortrag und Vertiefung, Angriffsmöglichkeiten) 
@@ -20,6 +22,6 @@
 - [ ] IP Security, AH und ESP, IKE, ISAKMP (Vortrag und Vertiefung)
 - [ ] VPN, Vor- und Nachteile, VPN-Arten, Verschlüsselungs- und Tunneltechniken, Anwendungsbeispiele, Aufbau einer VPN-Verbindung, Wireguard, OpenVPN (Theorie und Labortätigkeit)
 - [ ] SNMP, MIB, Architektur, Versionen, Befehle (Theorie und Labortätigkeit)
-- [ ] TLS, TLS-Versionen, Verbindungsaufbau, STARTTLS, Cipher Suites (Theorie und Labortätigkeit) 
+- [ ] [[TLS]]
 - [ ] Zusätzliche Labortätigkeit (eventuell zu Samba) 
 - [ ] Informationssicherheit, Datensicherheit und digitale Signaturen
