@@ -1,7 +1,6 @@
+[[Argumentation]]
 - Stellungnahme zu einem Problem / einer Frage
-- verschiedene Seiten
-- Leser von Meinung überzeugen
-- auch andere Meinung vertreten
+- ausgewogene Betrachtung verschiedener Standpunkte
 - Argument:
 	- Behauptung
 	- Begründung

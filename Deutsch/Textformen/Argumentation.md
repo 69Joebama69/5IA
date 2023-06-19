@@ -1,5 +1,5 @@
-- Leser von Meinung überzeugen
-- immer eigene Meinung vertreten (nicht wie bei [[Erörterung]])
+[[Erörterung]]
+- Überzeugung eines Standpunktes
 - aktuelle Themen -> Präsens
 - vergangene Themen -> Präteritum
 
@@ -12,8 +12,8 @@ _In dieser Argumentation möchte ich darlegen, warum Eltern die Nutzung von sozi
 
 # Hauptteil
 - alle Argumente in einem Abschnitt
-- >= 2 starke Argumente
 - Überleitungen zwischen Argumenten
+- \>\= 2 starke Argumente
 - starke Argumente am Ende
 - Argumente bestehen aus:
 	- Behauptung

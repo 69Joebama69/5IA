@@ -11,9 +11,9 @@
 - zentrale These
 
 Beantworten folgender Fragen:
-	- Warum ist das Thema wichtig?
-	- Welche Standpunkte gibt es?
-	- Welche Meinung vertritt man?
+- Warum ist das Thema wichtig?
+- Welche Standpunkte gibt es?
+- Welche Meinung vertritt man?
 
 _Laut einer aktuellen Schätzung der Internationalen Arbeitsorganisation ILO werden weltweit 152 Millionen Kinder als Kinderarbeiter ausgebeutet. Aus diesem Grund …_
 
