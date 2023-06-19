@@ -21,13 +21,12 @@
 
 # Industria - il mondo del lavoro
 - [ ] Percorso tematico che affronta il tema del lavoro da una prospettiva storica e sociale
-- [ ] Henry Ford, La catena di montaggio
+- [ ] [[La catena di montaggio]]
 - [ ] https://www.youtube.com/watch?v=I37VtQbOa7M
 - [ ] https://www.youtube.com/watch?v=nio7MYMaHxo
-- [ ] Adriano Olivetti imprenditore illuminato
+- [ ] [[Adriano Olivetti]]
 - [ ] https://www.youtube.com/watch?v=UTnDHIv3jsg
-- [ ] Marco Consoli, The cleaners
-- [ ] Albachiara Re, Facebook risarcirà i moderatori  Film; Pif, E noi come...rimanemmo a guardare (sintesi e  tematiche)
+- [ ] [[The Cleaners]]
 - [ ] Ruolo delle IA e conseguenze sul mondo del lavoro (compito in classe)
 
 
