@@ -214,7 +214,7 @@ user.doSomething();
 - Authentifizierung
 - Dateiuploads
 
-![[Pasted image 20230418170107.png]]
+![Pasted image 20230418170107](Pasted%20image%2020230418170107.png)
 - über Request- und Response-Object Zugriff auf Anfragen des Clients
 - Routing: welche Methode die Request bearbeitet
 - Middleware: können integriert werden (Cookies, Zugriff auf POST-Parameter)

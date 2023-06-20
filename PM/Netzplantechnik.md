@@ -4,7 +4,7 @@
 	freier Puffer: FAZ des Nachfolgers - FEZ des Vorgängers
 3. Verzögerungen bei Projektvorgängen wirken sich auf das ganze Projekt aus.
 
-4. ![[netzplantechnik_uebung.png]]
+4. ![netzplantechnik_uebung](netzplantechnik_uebung.png)
 5. 
 NR | Vorgangsbezeichnung | Dauer in Tagen | Unmittelbarer Vorgänger | Unmittelbarer Nachfolger
 ---|---------------------|----------------|-------------------------|-------------------------
@@ -34,7 +34,7 @@ NR | Vorgangsbezeichnung | Dauer in Tagen | Unmittelbarer Vorgänger | Unmittelb
  
 # Übungen 2
 1. 
-![[Pasted image 20220922183854.png]]
+![Pasted image 20220922183854](Pasted%20image%2020220922183854.png)
 
 2. 
 
@@ -54,6 +54,6 @@ NR | Dauer in Tagen | Unmittelbarer Vorgänger
 12 | 3 | 6, 11
 
 a)
-![[Pasted image 20220922191443.png]]
+![Pasted image 20220922191443](Pasted%20image%2020220922191443.png)
 
 b) Er kann um 11 Tage verschoben werden. Es handelt sich um den Gesamtpuffer.

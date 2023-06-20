@@ -38,7 +38,7 @@ SELECT ..., ...
 ## Datentypen
 
 ### Integerzahlen
-![[Pasted image 20221004143859.png]]
+![Pasted image 20221004143859](bilder/Pasted%20image%2020221004143859.png)
 - xxxINT(m) m: maximal ausgegebene zahlen (display width) z.B. INT(3) = 4: 004
 - xxxINT UNSIGNED: nur positiv
 - BOOL = TINYINT
@@ -96,7 +96,7 @@ name ENUM ("a", "b", "c");
 
 ## Deadlocks
 Zwei Prozesse wollen auf eine resource zugreifen die der andere prozess bereits glockt hat.
-![[Pasted image 20220907091336.png]]
+![Pasted image 20220907091336](bilder/Pasted%20image%2020220907091336.png)
 
 ## Transaktionen
 - Transaktion wird gestartet (START TRANSACTION)

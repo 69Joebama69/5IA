@@ -1,7 +1,7 @@
 ## Einfache Buchhaltung
 - ein Buch
 - betriebliche einnahmen und ausgaben chronologisch
-- gegenüberstellung der einnahmen und ausgaben an Jahresende ([[#Einnahmen-Überschuss-Rechnung]])
+- gegenüberstellung der einnahmen und ausgaben an Jahresende ([#Einnahmen-Überschuss-Rechnung](#Einnahmen-%C3%9Cberschuss-Rechnung))
 
 ## Doppelte Buchhaltung
 - mehrere Bücher
