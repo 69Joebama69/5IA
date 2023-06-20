@@ -4,7 +4,7 @@ Transport Layer Security
 - TLS Handshake (session key)
 - TLS Record (Datenaustausch)
 
-![Pasted image 20230425170547](Pasted%20image%2020230425170547.png)
+![[Pasted image 20230425170547.png]]
 
 - private und public key
 - Zertifikat beinhaltet: Domänenname, öffentlichen Schlüssel, Ablaufdatum, bestätigung
@@ -23,14 +23,14 @@ Beispiel HTTP-Request:
 
 # TLS-Handshake
 ## TLS 1.2
-![Pasted image 20230425172227](Pasted%20image%2020230425172227.png)
-![Pasted image 20230425173252](Pasted%20image%2020230425173252.png)
+![[Pasted image 20230425172227.png]]
+![[Pasted image 20230425173252.png]]
 
 ## TLS 1.3
-![Pasted image 20230425172235](Pasted%20image%2020230425172235.png)
+![[Pasted image 20230425172235.png]]
 
 
 ## STARTTLS
 startet verschlüsselete TLS-Verbindung
-![Pasted image 20230425172504](Pasted%20image%2020230425172504.png)
+![[Pasted image 20230425172504.png]]
 

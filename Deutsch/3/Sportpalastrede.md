@@ -15,10 +15,10 @@ Forderungen:
 - Maßnahmen zur Straffung des deutschen Gemeinwesens
 
 # Analyse
-- [](Die%20politische%20Rede.md#Aufwertung%7CAufwertung):  Interesseneinheit und Stärke des deutschen Volkes
-- [](Die%20politische%20Rede.md#Abwertung%7CAbwertung): moralische Verwerflichkeit der Gegner
+- [[Die politische Rede#Aufwertung|Aufwertung]]:  Interesseneinheit und Stärke des deutschen Volkes
+- [[Die politische Rede#Abwertung|Abwertung]]: moralische Verwerflichkeit der Gegner
 - Dramatisierung: Auslösen von Ängsten und Geschlossenheit im Publikum
-- [](Die%20politische%20Rede.md#Beschwichtigung%7CBeschwichtigung): Forderung der Gemeinschaftsideologie nach Opferbereitschaft durch jedes Mitglied
+- [[Die politische Rede#Beschwichtigung|Beschwichtigung]]: Forderung der Gemeinschaftsideologie nach Opferbereitschaft durch jedes Mitglied
 
 Ersten fünf Fragen beginnen mit "Die Engländer behaupten, ..." 
 "behaupten" diskreditiert die Aussage der Engländer

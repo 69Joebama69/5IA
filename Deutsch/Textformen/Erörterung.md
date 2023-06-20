@@ -1,4 +1,4 @@
-[Argumentation](Argumentation.md)
+[[Argumentation]]
 - Stellungnahme zu einem Problem / einer Frage
 - ausgewogene Betrachtung verschiedener Standpunkte
 - Argument:

@@ -18,7 +18,7 @@
 	- Verwaltung CPU
 
 # Architektur
-Ring 0:  [#Kernel](#Kernel)
+Ring 0:  [[#Kernel]]
 Ring 1:  Device Drivers
 Ring 2:  Device drivers
 Ring 3:  Applications

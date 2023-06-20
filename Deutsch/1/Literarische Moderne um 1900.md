@@ -1,4 +1,4 @@
-![literarische moderne um 1900](literarische%20moderne%20um%201900.jpeg)
+![[literarische moderne um 1900.jpeg]]
 
 - Rationalisierung, Technisierung, Industrialsierung und Individualisierung
 - tief greifende Veränderung aller Lebensbereiche
