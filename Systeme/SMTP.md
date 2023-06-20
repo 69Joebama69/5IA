@@ -1,7 +1,7 @@
 - Benutzer interagiert mit user agent
 - mail mit Mail / Message Transfer Agents (MTA) gesendet / empfangen
 	- sendmail
-![[Pasted image 20221024084010.png]]
+![Pasted image 20221024084010](Pasted%20image%2020221024084010.png)
 
 ## MTA
 - client sendet commands an Server

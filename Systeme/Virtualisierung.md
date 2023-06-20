@@ -37,7 +37,7 @@ Virtual Machine Monitor (VMM)
 - bereitstellung Schnittstelle zwischen host und guest
 - bereitstellung Management-Software
 
-![[Pasted image 20230425164141.png]]
+![Pasted image 20230425164141](Pasted%20image%2020230425164141.png)
 
 Typ1-Hypervisor:
 - direkt auf Hardware

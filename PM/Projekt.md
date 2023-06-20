@@ -7,8 +7,8 @@ mehrere Fachbereiche
 Personen in projekt
 
 ###### Stake Holder diagramm 
-einfluss + interesse der [[#Stake Holder]] 
-[[#Stake Holder]] mit großem Einflusse immer befriedigt
+einfluss + interesse der [#Stake Holder](#Stake%20Holder) 
+[#Stake Holder](#Stake%20Holder) mit großem Einflusse immer befriedigt
 wird mit stake holder analyse bestimmt
 
 #### Magisches Dreieck

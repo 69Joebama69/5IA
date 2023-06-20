@@ -1,6 +1,6 @@
 https://archive.org/details/lieutenantgustln00schn/page/20/mode/2up?view=theater
 
-- [[Innerer Monolog]]
+- [Innerer Monolog](Innerer%20Monolog.md)
 - Verlust der Führungsgewalt des Säbels
 - Entmachtung
 - Säbel ist ein phallus symbol

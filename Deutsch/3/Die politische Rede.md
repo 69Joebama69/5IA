@@ -8,9 +8,9 @@
 # Rhetorik
 - rhetorische Sprachmittel: **rhetorische Figuren**
 - **Redeweisen**:
-	- [[#Aufwertung]]
-	- [[#Abwertung]]
-	- [[#Beschwichtigung]]
+	- [#Aufwertung](#Aufwertung)
+	- [#Abwertung](#Abwertung)
+	- [#Beschwichtigung](#Beschwichtigung)
 
 ## Aufwertung
 - Herausheben von günstigen Aspekten
