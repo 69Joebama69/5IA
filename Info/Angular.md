@@ -17,7 +17,7 @@ export class Test {
 
 	$ ng generate component (Component name)
 - Teile der Anwendung
-- **COmponent Decorator** enthält Konfiguration
+- **Component Decorator** enthält Konfiguration
 - **Selektor** name in html
 - **templateUrl** path zu html
 - **styleUrls** path zu css / scss

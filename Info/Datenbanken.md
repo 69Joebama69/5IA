@@ -2,25 +2,29 @@
 ```sql
 CREATE DATABASE ...
 ```
-
+---
 ```sql
 CREATE TABLE ... (
 	... varchar(n) / int / decimal(n, m) / bool
 	NOT NULL / PRIMARY KEY / FOREIGN KEY (...) REFERENCES ...(...)
 );
 ```
+---
 ```sql
 INSERT INTO ... (..., ...)
 	VALUES (..., ...);
 ```
+---
 ```sql
 UPDATE ... SET ... = ...
 	WHERE ... = ...;
 ```
+---
 ```sql
 DELETE FROM ...
 	WHERE ... = ...;
 ```
+---
 ```sql
 SELECT ..., ...
 	FROM ...
@@ -41,18 +45,21 @@ SELECT ..., ...
 - AUTO_INCREMENT: nur wenn NOT NULL und PRIMARY KEY oder UNIQUE
 
 ### Dezimalzahlen
-Name             | Eigenschaften
-                 |
-FLOAT(m, d)      | 4 Bytes, 8 Stellen Genauigkeit
-DOUBLE(m, d)     | 8 Bytes, 16 Stellen Genauigkeit
-DECIMAL(m [, d]) | Festkommadarstellung m <= 65, d <= 30
+
+| Name             | Eigenschaften                         |
+| ---------------- | ------------------------------------- |
+| FLOAT(m, d)      | 4 Bytes, 8 Stellen Genauigkeit        |
+| DOUBLE(m, d)     | 8 Bytes, 16 Stellen Genauigkeit       |
+| DECIMAL(m [, d]) | Festkommadarstellung m <= 65, d <= 30 | 
+
 m = Gesamtstellenanzahl
 d = Anzahl der Stellen nach Dezimalpunkt
 z.B. FLOAT(5, 3) 0.1235 = 0.124, 1000 = 99.999
 
 ### Datum und Uhrzeit
+
 Name      | Eigenschaften
-          |
+          -|-
 DATE      | 3 Bytes, YYYY-MM-dd, 1000-01-01 bis 9999-12-31
 TIME      | 3 Bytes, HH:mm:ss, +- 838:59:59
 DATETIME  | 5 Bytes, YYYY-MM-dd HH:mm:ss, 1000-01-01 00:00:00 bis 9999-12-31 23:59:59
@@ -61,6 +68,7 @@ YEAR      | 1 Byte, 1900 bis 2155
 TIMESTAMP bei jeder Änderung des Datensatzes automatisch aktualisiert, bei neuem Datensatz automatisch gesetzt
 
 ### Zeichenketten
+
 Name | Eigenschaften
 -|-
 CHAR(n) | fixe Länge n, max 255
@@ -71,6 +79,7 @@ MEDIUMTEXT | variable Länge, max 16.777.215
 LONGTEXT | variable Länge, max 4.294.967.295
 
 ### BLOBs
+
 Name | Eigenschaften
 -----|--------------
 TINYBLOB | max 255 Bytes

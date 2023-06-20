@@ -1,4 +1,4 @@
-[[Erörterung]]
+[Erörterung](Erörterung.md)
 - Überzeugung eines Standpunktes
 - aktuelle Themen -> Präsens
 - vergangene Themen -> Präteritum
