@@ -37,7 +37,7 @@
 
 ## Rrsource Records (RR)
 - NAME (TTL) Class Type RDATA
-	- A (IPv$ Adresse)
+	- A (IPv4 Adresse)
 	- NS (Authorative Name Server)
 	- CNAME (Canonical Name, Alias)
 	- SOA (Start of Zone Authority)
